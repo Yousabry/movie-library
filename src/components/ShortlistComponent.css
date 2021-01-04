@@ -1,0 +1,11 @@
+.shortlist-container {
+  margin: calc((100% - 400px) / 2);
+  max-width: 400px;
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+}
+
+.error-msg {
+  color: red;
+}

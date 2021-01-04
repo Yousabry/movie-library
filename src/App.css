@@ -1,0 +1,15 @@
+@import "~antd/dist/antd.css";
+
+.App {
+  text-align: center;
+}
+
+.Page-container {
+  padding: 20px 120px;
+}
+
+.Page-title {
+  text-emphasis-color: red;
+  width: 100%;
+  text-align: center;
+}
