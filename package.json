@@ -44,5 +44,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "http://Yousabry.github.io/movie-library"
+  "homepage": "http://Yousabry.github.io/movie-library",
+  "devDependencies": {
+    "@types/react-dom": "^17.0.0"
+  }
 }
