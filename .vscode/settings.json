@@ -1,0 +1,5 @@
+{
+    "editor.formatOnSave": true,
+    "prettier.packageManager": "yarn",
+    "prettier.useTabs": true
+}
